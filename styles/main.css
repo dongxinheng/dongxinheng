@@ -8344,6 +8344,9 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 .fa-twitter:before {
   content: "\ef7b";
 }
+.fa-qq:before {
+  content: "\f1d6";
+}
 .fa-github:before {
   content: "\eca7";
 }
